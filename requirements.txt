@@ -1,0 +1,4 @@
+beautifulsoup4
+folium~=0.14.0
+progressbar2
+ijson~=3.2.2
